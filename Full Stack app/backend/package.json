@@ -9,7 +9,7 @@
 	},
 	"author": "BS",
 	"license": "MIT",
-	"description": "",
+	"description": "Full stack web app",
 	"dependencies": {
 		"axios": "^1.6.7",
 		"bcrypt": "^5.1.1",
