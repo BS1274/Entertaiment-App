@@ -1,5 +1,11 @@
 # Entertainment Web App
 
+## Deployment
+- [Live Server](https://entertainment-app-frontend-110.onrender.com)
+
+## Live Demo
+[Demo](https://youtu.be/d0fYdGMTsVE)
+
 ## Features
 - **User Authentication**: Secure login and registration using JWT.
 - **Media Exploration**: Discover trending movies and TV shows.
@@ -15,11 +21,11 @@
 
 3. **Configure Environment Variables**:
 
-MONGODB_URL= "your mongodb url"
+**MONGODB_URL= "your mongodb url"**
 
-SECRET_TOKEN= "your secret token"
+**SECRET_TOKEN= "your secret token"**
 
-TMDB_TOKEN= "your tmdb api key"
+**TMDB_TOKEN= "your tmdb api key"**
 
 4. **Start the Server**: `npm start`
 
@@ -31,9 +37,9 @@ TMDB_TOKEN= "your tmdb api key"
 
 3. **Configure Environment Variables**:
 
-REACT_APP_BACKEND_URL= "your backend server url"
+**REACT_APP_BACKEND_URL= "your backend server url"**
 
-VITE_APP_TMDB_API_KEY= "your tmdb api key"
+**VITE_APP_TMDB_API_KEY= "your tmdb api key"**
 
 4. **Start the Application**: `npm run dev`
 
@@ -54,9 +60,6 @@ VITE_APP_TMDB_API_KEY= "your tmdb api key"
 - **Services**: API request functions.
 - **Store**: Redux setup for state management.
 - **Utils**: Utility functions.
-
-## Deployment
-- [Entertainment App](https://entertainment-app-frontend-110.onrender.com)
 
 ## API Documentation
 - [API Documentation](https://documenter.getpostman.com/view/29682764/2sA2xmVB3S)
