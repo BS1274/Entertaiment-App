@@ -21,11 +21,11 @@
 
 3. **Configure Environment Variables**:
 
-**MONGODB_URL= "your mongodb url"**
+- **MONGODB_URL= "your mongodb url"**
 
-**SECRET_TOKEN= "your secret token"**
+- **SECRET_TOKEN= "your secret token"**
 
-**TMDB_TOKEN= "your tmdb api key"**
+- **TMDB_TOKEN= "your tmdb api key"**
 
 4. **Start the Server**: `npm start`
 
