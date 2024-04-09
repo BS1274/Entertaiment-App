@@ -4,7 +4,7 @@
 - [Live Server](https://entertainment-app-frontend-110.onrender.com)
 
 ## Live Demo
-[Demo](https://youtu.be/d0fYdGMTsVE)
+- [Demo](https://youtu.be/d0fYdGMTsVE)
 
 ## Features
 - **User Authentication**: Secure login and registration using JWT.
