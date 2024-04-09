@@ -15,19 +15,19 @@
 ## Getting Started
 
 ### Backend Setup
-1. **Navigate to Backend Directory**: `cd entertainment-app/backend`
+**1. Navigate to Backend Directory**: `cd entertainment-app/backend`**
 
-2. **Install Dependencies**: `npm install`
+2. **Install Dependencies: `npm install`**
 
-3. **Configure Environment Variables**:
+3. **Configure Environment Variables**:**
 
 - **MONGODB_URL= "your mongodb url"**
 
-- **SECRET_TOKEN= "your secret token"**
+- **SECRET_TOKEN= "your secret token"
 
-- **TMDB_TOKEN= "your tmdb api key"**
+- **TMDB_TOKEN= "your tmdb api key"
 
-4. **Start the Server**: `npm start`
+4. **Start the Server: `npm start`**
 
 ### Frontend Setup
 
@@ -43,7 +43,7 @@
 
 4. **Start the Application**: `npm run dev`
 
-5. **Access the Application**: Open your browser and go to `http://localhost:3000`
+5. **Access the Application**: Open your browser and look into the terminal to view local host server address
 
 ## Project Structure
 
