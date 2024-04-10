@@ -1,8 +1,9 @@
 # Entertainment Web App
 
-# Basic Info to open or view Project
+# Basic Info to open or view Project For Alma
 
 Click on Full stack app Above folder to open Project and view it in Github or you can download and view it both frontend and backend codes
+Also as Per the Demo Click next below and watch full accesible video wait for 3 second for trasntion effect dont consider as glitch or inaccesible
 
 ## Deployment
 - [Live Server](https://entertainment-app-frontend-110.onrender.com)
