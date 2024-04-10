@@ -1,5 +1,9 @@
 # Entertainment Web App
 
+# Basic Info to open or view Project
+
+Click on Full stack app Above folder to open Project and view it in Github or you can download and view it both frontend and backend codes
+
 ## Deployment
 - [Live Server](https://entertainment-app-frontend-110.onrender.com)
 
